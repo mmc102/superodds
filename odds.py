@@ -1,4 +1,5 @@
 ####odds for superbowl pool####
+
 #my family started a super bowl pool and assigned everyone an integer from 0 to 9. 
 #the ones digit of the scores are summed at half time and the end of the game. whoever has the sum of those digits wins big
 #NOTE if the sum is >9, its again taken as the ones digit 28 to 28 yields 16 (8+8), and the winner is 6 
